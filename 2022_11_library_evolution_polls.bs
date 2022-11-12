@@ -163,6 +163,13 @@ Reject
   \[US-43-104](https://github.com/cplusplus/nbballot/issues/520) `subspan` Type Confusion
   and any duplicate comments.
 
+### \[FR-002-015](https://github.com/cplusplus/nbballot/issues/405) Return A `span` From `strides`
+
+Reject
+  C++23 National Body comment
+  \[FR-002-015](https://github.com/cplusplus/nbballot/issues/405) Return A `span` From `strides`
+  and any duplicate comments.
+
 ### \[GB-087](https://github.com/cplusplus/nbballot/issues/458) `start_lifetime_as` Is Broken And Inconsistent For Arrays
 
 Reject
