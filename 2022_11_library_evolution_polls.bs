@@ -115,14 +115,14 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-### FR-015-026 Remove `cbegin`/`cend` From Spans And Views
+### \[FR-015-026](https://github.com/cplusplus/nbballot/issues/417) Remove `cbegin`/`cend` From Spans And Views
 
 Reject
   C++23 National Body comment
   \[FR-015-026](https://github.com/cplusplus/nbballot/issues/417) Remove `cbegin`/`cend` From Spans And Views
   and any duplicate comments.
 
-### FR-013-020 Replace `repeat` With `cycle`
+### \[FR-013-020](https://github.com/cplusplus/nbballot/issues/415) Replace `repeat` With `cycle`
 
 Reject
   C++23 National Body comment
@@ -142,7 +142,7 @@ Reject
   [[LWG3806]] Should Concept `formattable<T, charT>` Default To `char`?
   .
 
-### FR-003-010 Formatting Of Ranges Of `tuple`-like Objects
+### \[FR-003-010](https://github.com/cplusplus/nbballot/issues/406) Formatting Of Ranges Of `tuple`-like Objects
 
 Reject
   C++23 National Body comment
@@ -156,7 +156,7 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-### GB-087 `start_lifetime_as` Is Broken And Inconsistent For Arrays
+### \[GB-087](https://github.com/cplusplus/nbballot/issues/458) `start_lifetime_as` Is Broken And Inconsistent For Arrays
 
 Reject
   C++23 National Body comment
@@ -179,14 +179,14 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-### US-30-072 Predefined Macros From The C Library
+### \[US-30-072](https://github.com/cplusplus/nbballot/issues/502) Predefined Macros From The C Library
 
 Reject
   C++23 National Body comment
   \[US-30-072](https://github.com/cplusplus/nbballot/issues/502) Predefined Macros From The C Library
   and any duplicate comments.
 
-### GB-080 Sync `intmax_t` And `uintmax_t` With C2x
+### \[GB-080](https://github.com/cplusplus/nbballot/issues/447) Sync `intmax_t` And `uintmax_t` With C2x
 
 Send
   the proposed resolution to C++23 National Body comment
@@ -208,7 +208,7 @@ Send
   to Library Working Group for C++26,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-### GB-081 Deprecate Contents Of `<stdalign.h>`
+### \[GB-081](https://github.com/cplusplus/nbballot/issues/454) Deprecate Contents Of `<stdalign.h>`
 
 Send
   the proposed resolution to C++23 National Body comment
@@ -216,7 +216,7 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-### GB-082 Deprecate Contents Of `<stdbool.h>`
+### \[GB-082](https://github.com/cplusplus/nbballot/issues/453) Deprecate Contents Of `<stdbool.h>`
 
 Send
   the proposed resolution to C++23 National Body comment
@@ -224,7 +224,7 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-### GB-084 Deprecate `errc` Constants Related To UNIX STREAMS
+### \[GB-084](https://github.com/cplusplus/nbballot/issues/444) Deprecate `errc` Constants Related To UNIX STREAMS
 
 Send
   the proposed resolution to C++23 National Body comment
@@ -232,7 +232,7 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-### GB-121 Remove `voidify`
+### \[GB-121](https://github.com/cplusplus/nbballot/issues/452) Remove `voidify`
 
 Send
   the proposed resolution to C++23 National Body comment
