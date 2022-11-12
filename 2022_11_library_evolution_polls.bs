@@ -1,0 +1,335 @@
+<pre class='metadata'>
+Title: 2022-11 Library Evolution Polls
+Shortname: D2650
+Revision: 0
+Status: D
+Group: WG21
+Audience: WG21
+Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
+URL: https://wg21.link/P2650
+!Source: <a href="https://github.com/brycelelbach/wg21_p2650_2022_10_library_evolution_polls/blob/main/2022_10_library_evolution_polls.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2650_2022_10_library_evolution_polls/issues
+Metadata Order: Editor, Source, Issue Tracking, Project, Audience
+Markup Shorthands: markdown yes
+Toggle Diffs: no
+No Abstract: yes
+Boilerplate: style-syntax-highlighting off
+Default Biblio Display: direct
+</pre>
+
+# Introduction # {#introduction}
+
+This paper contains the decision polls that the C++ Library Evolution group
+  will take in 2022-11.
+
+# Voting # {#voting}
+
+These decision polls will be conducted electronically; see [[P2195R2]] for
+  more information on electronic voting procedures.
+
+All committee members may vote, but if you have not participated in the Library
+  Evolution discussions of a poll, please choose to not vote.
+
+## How to Vote ## {#how-to-vote}
+
+<b><a href="TODO">Vote here (C++23 polls).</a></b>
+
+<b><a href="TODO">Vote here (C++26 and Technical Specification polls).</a></b>
+
+A documents.isocpp.org account is necessary to vote.
+If you have an isocpp.org/papers account, a documents.isocpp.org account has
+  been created for you.
+Just go to documents.isocpp.org and reset your password.
+Email <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a> if you
+  do not have an account or are having trouble accessing your account.
+
+If you see "Form not found" when you go to the above link, you are not signed
+  in to documents.isocpp.org.
+Go to documents.isocpp.org and sign in first.
+
+You will not receive a confirmation email after voting.
+The Library Evolution chairs will send a confirmation to all voters before the
+  close of the poll.
+
+If you need to change how you voted or have any questions or issues about
+  voting, please email
+  <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a>.
+
+## Voting Timeline ## {#voting-timeline}
+
+- 2022-11-11: Draft polls distributed by mailing list.
+- 2022-11-14: Start of the polling period.
+- 2022-12-13: End of the polling period.
+- 2022-12-16: Chairs share results and summarize outcomes.
+
+# Poll Structure # {#poll-structure}
+
+Each poll consists of a statement; you vote on whether you support the
+  statement.
+All polls will be 5-way polls; you'll vote either "strongly favor",
+  "weakly favor", "neutral", "weakly against", or "strongly against".
+
+Polls phrased as "Return X" indicate that the paper was sent to Library Working
+  Group in the past, and Libary Working Group returned it to us with
+  questions.
+Polls phrased as "Send X" indicate that the paper has not previously been sent
+  to Library Working Group.
+
+All committee members may vote, but if you have not participated in the
+  Library Evolution discussions of a poll (in-person, over telecon, or
+  over email), please consider whether you sufficiently understand the
+  topic to be able to vote in an informed manner.
+If you do not, please choose to not participate in the poll.
+
+If you do not want to participate in a poll, select the "I do not want to
+  participate in this poll" option.
+Those who do not participate in a poll will not be counted or recorded.
+Voting neutral is not the same as choosing to not participate; please
+  don't vote neutral if you did not participate in the discussions of
+  the poll.
+
+Each poll has a comment field.
+Please write a few sentences explaining the rationale for your vote.
+We recommend drafting your comments in a text editor and then pasting them
+  into the polling system.
+
+Poll results and selected comments will be shared with Library Evolution after
+  the end of the polling period, including attribution of your votes and
+  comments.
+
+If you want to discuss the polls or how you plan on voting, please start an
+  email thread on the
+  <a href="lib-ext@lists.isocpp.org">Library Evolution mailing list</a>.
+
+You will not receive a confirmation email after voting.
+
+If you need to see how you voted, change how you voted, or have any questions
+  or issues about voting, please contact the Library Evolution chair.
+
+## C++23 Polls ## {#polls-cpp23}
+
+### [[P2655R1]] `common_reference_t` Of `reference_wrapper` Should Be A Reference Type
+
+Send
+  [[P2655R1]] `common_reference_t` Of `reference_wrapper` Should Be A Reference Type
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### FR-015-026 Remove `cbegin`/`cend` From Spans And Views
+
+Reject
+  C++23 National Body comment
+  \[FR-015-026](https://github.com/cplusplus/nbballot/issues/417) Remove `cbegin`/`cend` From Spans And Views
+  and any duplicate comments.
+
+### FR-013-020 Replace `repeat` With `cycle`
+
+Reject
+  C++23 National Body comment
+  \[FR-013-020](https://github.com/cplusplus/nbballot/issues/415) Replace `repeat` With `cycle`
+  and any duplicate comments.
+
+### [[P2693R0]] Formatting `thread::id` And `stacktrace`
+
+Send
+  [[P2693R0]] Formatting `thread::id` And `stacktrace`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[LWG3806]] Should Concept `formattable<T, charT>` Default To `char`?
+
+Reject
+  [[LWG3806]] Should Concept `formattable<T, charT>` Default To `char`?
+  .
+
+### FR-003-010 Formatting Of Ranges Of `tuple`-like Objects
+
+Reject
+  C++23 National Body comment
+  \[FR-003-010](https://github.com/cplusplus/nbballot/issues/406) Formatting Of Ranges Of `tuple`-like Objects
+  and any duplicate comments.
+
+### [[P2588R2]] Relax `barrier` Phase Completion Step Guarantees
+
+Send
+  [[P2588R2]] Relax `barrier` Phase Completion Step Guarantees
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### GB-087 `start_lifetime_as` Is Broken And Inconsistent For Arrays
+
+Reject
+  C++23 National Body comment
+  \[GB-087](https://github.com/cplusplus/nbballot/issues/458) `start_lifetime_as` Is Broken And Inconsistent For Arrays
+  as per
+  [[P2679R1]] Fixing `start_lifetime_as` For Arrays
+  .
+
+### [[P2679R1]] Fixing `start_lifetime_as` For Arrays
+
+Send
+  [[P2679R1]] Fixing `start_lifetime_as` For Arrays
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### [[P2674R1]] `is_implicit_lifetime`
+
+Send
+  [[P2674R1]] `is_implicit_lifetime`
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### US-30-072 Predefined Macros From The C Library
+
+Reject
+  C++23 National Body comment
+  \[US-30-072](https://github.com/cplusplus/nbballot/issues/502) Predefined Macros From The C Library
+  and any duplicate comments.
+
+### GB-080 Sync `intmax_t` And `uintmax_t` With C2x
+
+Send
+  the proposed resolution to C++23 National Body comment
+  \[GB-080](https://github.com/cplusplus/nbballot/issues/447) Sync `intmax_t` And `uintmax_t` With C2x
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### [[P2652R0]] Disallow User Specialization Of `allocator_traits`
+
+Send
+  [[P2652R0]] Disallow User Specialization Of `allocator_traits`
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### [[P2614R1]] Deprecate `numeric_limits::has_denorm`
+
+Send
+  [[P2614R1]] Deprecate `numeric_limits::has_denorm`
+  to Library Working Group for C++26,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### GB-081 Deprecate Contents Of `<stdalign.h>`
+
+Send
+  the proposed resolution to C++23 National Body comment
+  \[GB-081](https://github.com/cplusplus/nbballot/issues/454) Deprecate Contents Of `<stdalign.h>`
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### GB-082 Deprecate Contents Of `<stdbool.h>`
+
+Send
+  the proposed resolution to C++23 National Body comment
+  \[GB-082](https://github.com/cplusplus/nbballot/issues/453) Deprecate Contents Of `<stdbool.h>`
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### GB-084 Deprecate `errc` Constants Related To UNIX STREAMS
+
+Send
+  the proposed resolution to C++23 National Body comment
+  \[GB-084](https://github.com/cplusplus/nbballot/issues/444) Deprecate `errc` Constants Related To UNIX STREAMS
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### GB-121 Remove `voidify`
+
+Send
+  the proposed resolution to C++23 National Body comment
+  \[GB-121](https://github.com/cplusplus/nbballot/issues/452) Remove `voidify`
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+## C++26 and Technical Specification Polls ## {#polls-cpp26-and-ts}
+
+### [[P2545R1]] Why RCU Should Be In C++26
+
+Send
+  [[P2545R1]] Why RCU Should Be In C++26
+  to Library Working Group for C++26,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2530R1]] Why Hazard Pointers Should Be In C++26
+
+Send
+  [[P2530R1]] Why Hazard Pointers Should Be In C++26
+  to Library Working Group for C++26,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P0493R3]] Atomic Maximum/Minimum
+
+Send
+  [[P0493R3]] Atomic Maximum/Minimum
+  to Library Working Group for C++26,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2527R1]] `variant_alternative_index` And `variant_alternative_index_v`
+
+Send
+  [[P2527R1]] `variant_alternative_index` And `variant_alternative_index_v`
+  to Library Working Group for C++26,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### [[P2264R4]] Make `assert` Macro User Friendly For C And C++
+
+Send
+  [[P2264R4]] Make `assert` Macro User Friendly For C And C++
+  to Library Working Group for C++26,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+
+
+<pre class=biblio>
+{
+  "P2655R1": {
+    "title": "`common_reference_t` of `reference_wrapper` Should Be a Reference Type",
+    "authors": [
+      "Hui Xie",
+      "S. Levent Yilmaz"
+    ],
+    "href": "https://wg21.link/P2655R1",
+    "date": "2022-10-17"
+  },
+  "P2693R0": {
+    "title": "Formatting thread::id and stacktrace",
+    "authors": [
+      "Corentin Jabot",
+      "Victor Zverovich"
+    ],
+    "href": "https://wg21.link/P2693R0",
+    "date": "2022-11-11"
+  },
+  "P2588R2": {
+    "title": "barrier's completion phase guarantees",
+    "authors": [
+      "Gonzalo Brito Gadeschi",
+      "Eric Niebler",
+      "Anthony Williams",
+      "Thomas Rodgers"
+    ],
+    "href": "https://wg21.link/P2588R2",
+    "date": "2022-11-07"
+  },
+  "P2679R1": {
+    "title": "Fixing std::start_lifetime_as and std::start_lifetime_as_array",
+    "authors": [
+      "Timur Doumler",
+      "Arthur O’Dwyer",
+      "Richard Smith",
+      "Alisdair Meredith",
+      "Robert Leahy"
+    ],
+    "href": "https://wg21.link/P2679R1",
+    "date": "2022-11-11"
+  },
+  "P2674R1": {
+    "title": "A trait for implicit lifetime types",
+    "authors": [
+      "Timur Doumler",
+      "Vittorio Romeo"
+    ],
+    "href": "https://wg21.link/P2674R1",
+    "date": "2022-10-14"
+  }
+}
+</pre>
