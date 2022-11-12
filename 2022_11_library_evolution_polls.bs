@@ -156,6 +156,13 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
+### \[US-43-104](https://github.com/cplusplus/nbballot/issues/520) `subspan` Type Confusion
+
+Reject
+  C++23 National Body comment
+  \[US-43-104](https://github.com/cplusplus/nbballot/issues/520) `subspan` Type Confusion
+  and any duplicate comments.
+
 ### \[GB-087](https://github.com/cplusplus/nbballot/issues/458) `start_lifetime_as` Is Broken And Inconsistent For Arrays
 
 Reject
