@@ -58,7 +58,7 @@ If you need to change how you voted or have any questions or issues about
 ## Voting Timeline ## {#voting-timeline}
 
 - 2022-11-11: Draft polls distributed by mailing list.
-- 2022-11-14: Start of the polling period.
+- 2022-11-17: Start of the polling period.
 - 2022-12-13: End of the polling period.
 - 2022-12-16: Chairs share results and summarize outcomes.
 
@@ -107,6 +107,20 @@ If you need to see how you voted, change how you voted, or have any questions
   or issues about voting, please contact the Library Evolution chair.
 
 ## C++23 Polls ## {#polls-cpp23}
+
+### [[P2164R8]] `views::enumerate`
+
+Send
+  [[P2164R8]] `views::enumerate`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2711R1]] Making Multi-Param Constructors Of Views Explicit
+
+Send
+  [[P2711R1]] Making Multi-Param Constructors Of Views Explicit
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
 ### [[P2655R1]] `common_reference_t` Of `reference_wrapper` Should Be A Reference Type
 
@@ -256,6 +270,12 @@ Send
 
 ## C++26 and Technical Specification Polls ## {#polls-cpp26-and-ts}
 
+### [[P2559R1]] Plan For Concurrency Technical Specification Version 2
+
+Send
+  [[P2559R1]] Plan For Concurrency Technical Specification Version 2
+  to Library Working Group for tne Concurrency Technical Specification Version 2.
+
 ### [[P2545R1]] Why RCU Should Be In C++26
 
 Send
@@ -295,6 +315,22 @@ Send
 
 <pre class=biblio>
 {
+  "P2164R8": {
+    "title": "views::enumerate",
+    "authors": [
+      "Corentin Jabot"
+    ],
+    "href": "https://wg21.link/P2164R8",
+    "date": "2022-11-11"
+  },
+  "P2711R1": {
+    "title": "Making multi-param constructors of views explicit",
+    "authors": [
+      "Ville Voutilainen"
+    ],
+    "href": "https://wg21.link/P2711R1",
+    "date": "2022-11-12"
+  },
   "P2655R1": {
     "title": "`common_reference_t` of `reference_wrapper` Should Be a Reference Type",
     "authors": [
@@ -344,6 +380,14 @@ Send
     ],
     "href": "https://wg21.link/P2674R1",
     "date": "2022-10-14"
+  },
+  "P2559R1": {
+    "title": "Plan for Concurrency Technical Specification Version 2",
+    "authors": [
+      "Bryce Adelstein Lelbach"
+    ],
+    "href": "https://wg21.link/P2559R1",
+    "date": "2022-11-17"
   }
 }
 </pre>
