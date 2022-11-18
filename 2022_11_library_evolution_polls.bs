@@ -58,7 +58,7 @@ If you need to change how you voted or have any questions or issues about
 ## Voting Timeline ## {#voting-timeline}
 
 - 2022-11-11: Draft polls distributed by mailing list.
-- 2022-11-17: Start of the polling period.
+- 2022-11-18: Start of the polling period.
 - 2022-12-13: End of the polling period.
 - 2022-12-16: Chairs share results and summarize outcomes.
 
