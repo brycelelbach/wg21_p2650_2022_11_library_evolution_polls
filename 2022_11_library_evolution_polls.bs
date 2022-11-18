@@ -233,7 +233,7 @@ Send
 
 Send
   [[P2614R1]] Deprecate `numeric_limits::has_denorm`
-  to Library Working Group for C++26,
+  to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
 ### \[GB-081](https://github.com/cplusplus/nbballot/issues/454) Deprecate Contents Of `<stdalign.h>`
