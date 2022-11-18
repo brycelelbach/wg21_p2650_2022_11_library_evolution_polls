@@ -154,7 +154,7 @@ Send
 
 Reject
   [[LWG3806]] Should Concept `formattable<T, charT>` Default To `char`?
-  .
+  and any duplicate issues.
 
 ### \[FR-003-010](https://github.com/cplusplus/nbballot/issues/406) Formatting Of Ranges Of `tuple`-like Objects
 
