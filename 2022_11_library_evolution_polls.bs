@@ -7,8 +7,8 @@ Group: WG21
 Audience: WG21
 Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
 URL: https://wg21.link/P2650
-!Source: <a href="https://github.com/brycelelbach/wg21_p2650_2022_10_library_evolution_polls/blob/main/2022_10_library_evolution_polls.bs">GitHub</a>
-Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2650_2022_10_library_evolution_polls/issues
+!Source: <a href="https://github.com/brycelelbach/wg21_p2650_2022_11_library_evolution_polls/blob/main/2022_11_library_evolution_polls.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2650_2022_11_library_evolution_polls/issues
 Metadata Order: Editor, Source, Issue Tracking, Project, Audience
 Markup Shorthands: markdown yes
 Toggle Diffs: no
