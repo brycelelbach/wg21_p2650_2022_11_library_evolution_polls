@@ -274,7 +274,7 @@ Send
 
 Send
   [[P2559R1]] Plan For Concurrency Technical Specification Version 2
-  to Library Working Group for tne Concurrency Technical Specification Version 2.
+  to Library Working Group for the Concurrency Technical Specification Version 2.
 
 ### [[P2545R1]] Why RCU Should Be In C++26
 
